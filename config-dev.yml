@@ -1,1 +1,2 @@
-
+config:
+  name: springcloud/config-dev.yml
