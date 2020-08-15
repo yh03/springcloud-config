@@ -1,2 +1,2 @@
 config:
-  name: springcloud/config-dev.yml
+  info: springcloud/config-dev.yml version1.0.0
